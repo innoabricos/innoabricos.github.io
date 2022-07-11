@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-91ae1862.js",
+    "file": "start-a365e79c.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -38,14 +38,14 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-99738d53.js",
+    "file": "pages/index.svelte-9a1c3ae3.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-0489bdd4.js",
       "_firebase-218fcd9a.js",
-      "_Navbar-8c572b37.js",
+      "_Navbar-07fe0ada.js",
       "_ProgressIndicator-6ca88bde.js",
       "_index-621d9ca2.js"
     ],
@@ -68,14 +68,14 @@
     ]
   },
   "src/routes/profile.svelte": {
-    "file": "pages/profile.svelte-cc290271.js",
+    "file": "pages/profile.svelte-f234de13.js",
     "src": "src/routes/profile.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-0489bdd4.js",
       "_firebase-218fcd9a.js",
-      "_Navbar-8c572b37.js",
+      "_Navbar-07fe0ada.js",
       "_index-621d9ca2.js"
     ],
     "css": [
@@ -94,15 +94,15 @@
   "_firebase-218fcd9a.js": {
     "file": "chunks/firebase-218fcd9a.js"
   },
-  "_Navbar-8c572b37.js": {
-    "file": "chunks/Navbar-8c572b37.js",
+  "_Navbar-07fe0ada.js": {
+    "file": "chunks/Navbar-07fe0ada.js",
     "imports": [
       "_index-0489bdd4.js",
       "_index-621d9ca2.js",
       "_firebase-218fcd9a.js"
     ],
     "css": [
-      "assets/Navbar-9eeb7f1d.css"
+      "assets/Navbar-f75bf7a3.css"
     ]
   },
   "_ProgressIndicator-6ca88bde.js": {
